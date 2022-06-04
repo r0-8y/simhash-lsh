@@ -2,4 +2,4 @@
 
 ## LSH
 
-A simple Locality Sensitive Hashing - LSH algorithm in Python.
+A simple SimHash with Locality Sensitive Hashing - LSH algorithm in Python.
